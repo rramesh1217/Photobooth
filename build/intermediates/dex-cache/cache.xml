@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\rrame\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\rrame\OneDrive\Documents\Photobooth\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0_c05497dfda88849f7e37fc3bdbe824abe1498ebd.jar" />
+    </item>
+    <item
+        jar="C:\Users\rrame\OneDrive\Documents\Photobooth\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\rrame\OneDrive\Documents\Photobooth\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0_eee7db38193e988aafef11b91b94f2f956579650.jar" />
+    </item>
+    <item
+        jar="C:\Users\rrame\OneDrive\Documents\Photobooth\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\rrame\OneDrive\Documents\Photobooth\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.0_db2fbb39ba4a1160bb5d0b0a051b498511ab4ae5.jar" />
+    </item>
+    <item
+        jar="C:\Users\rrame\OneDrive\Documents\Photobooth\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="C:\Users\rrame\OneDrive\Documents\Photobooth\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.0_302e590227528f1ced0597697a78457fe7c3d4fd.jar" />
+    </item>
+
+</items>

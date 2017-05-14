@@ -1,0 +1,5 @@
+syntax: glob
+.gradle
+local.properties
+.idea/workspace.xml
+build/

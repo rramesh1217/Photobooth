@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\rrame\\OneDrive\\Documents\\Photobooth\\app\\build\\intermediates\\res\\merged\\debug\\menu\\photobooth.xml",
+        "source": "C:\\Users\\rrame\\OneDrive\\Documents\\Photobooth\\app\\src\\main\\res\\menu\\photobooth.xml"
+    },
+    {
+        "merged": "C:\\Users\\rrame\\OneDrive\\Documents\\Photobooth\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view.xml",
+        "source": "C:\\Users\\rrame\\OneDrive\\Documents\\Photobooth\\app\\src\\main\\res\\menu\\menu_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\rrame\\OneDrive\\Documents\\Photobooth\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gallery.xml",
+        "source": "C:\\Users\\rrame\\OneDrive\\Documents\\Photobooth\\app\\src\\main\\res\\menu\\gallery.xml"
+    }
+]

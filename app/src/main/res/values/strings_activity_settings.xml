@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_post_target">HTTP POST address</string>
+    <string name="pref_default_post_target">127.0.0.1</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="post_target"
+        android:title="@string/pref_title_post_target"
+        android:defaultValue="@string/pref_default_post_target"
+        android:selectAllOnFocus="true"
+        android:inputType="textUri"
+        android:capitalize="none"
+        android:singleLine="true"
+        android:maxLines="1" />
+
+</PreferenceScreen>
